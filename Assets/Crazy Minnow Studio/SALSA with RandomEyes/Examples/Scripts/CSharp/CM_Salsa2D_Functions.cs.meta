@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 25a76b351b0c40844b57724f9fdb6cb7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16944
+  packageName: SALSA With RandomEyes
+  packageVersion: 1.5.5
+  assetPath: Assets/Crazy Minnow Studio/SALSA with RandomEyes/Examples/Scripts/CSharp/CM_Salsa2D_Functions.cs
+  uploadId: 239708

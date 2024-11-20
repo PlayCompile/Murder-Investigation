@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6797421cc6779a24a94db9777490d982
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16944
+  packageName: SALSA With RandomEyes
+  packageVersion: 1.5.5
+  assetPath: Assets/Crazy Minnow Studio/SALSA with RandomEyes/Examples/Scripts/CSharp/CM_DialogSystem.cs
+  uploadId: 239708

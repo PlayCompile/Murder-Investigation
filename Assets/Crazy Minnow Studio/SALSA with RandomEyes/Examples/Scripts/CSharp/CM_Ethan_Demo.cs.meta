@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 233eaf4cdd6ff7143acb857183af7a32
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16944
+  packageName: SALSA With RandomEyes
+  packageVersion: 1.5.5
+  assetPath: Assets/Crazy Minnow Studio/SALSA with RandomEyes/Examples/Scripts/CSharp/CM_Ethan_Demo.cs
+  uploadId: 239708
